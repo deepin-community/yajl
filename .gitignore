@@ -1,1 +1,3 @@
-.pc/
+.DS_Store
+Makefile
+/build/
