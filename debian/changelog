@@ -1,3 +1,9 @@
+yajl (2.1.0-6) unstable; urgency=medium
+
+  * Rebuild with LTO enabled (dpkg vendor feature optimize/lto).
+
+ -- tunaichao <tunaichao@uniontech.com>  Mon, 14 Sep 2026 09:24:16 +0800
+
 yajl (2.1.0-5) unstable; urgency=medium
 
   * The patch for CVE-2023-33460 turned out to be incomplete.  Fix that.
